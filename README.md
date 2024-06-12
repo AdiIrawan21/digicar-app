@@ -35,3 +35,11 @@ Kontribusi terhadap pengembangan Digicar App sangatlah dihargai. Jika Anda ingin
 ## Lisensi
 
 Proyek ini dilisensikan di bawah lisensi [MIT License](LICENSE).
+
+## Tampilan Front End
+![WhatsApp Image 2024-06-12 at 22 02 59](https://github.com/AdiIrawan21/digicar-app/assets/117340600/75aa90c8-f186-4fc6-8d5e-cbaa4ccd8bb3)
+![WhatsApp Image 2024-06-12 at 22 03 13](https://github.com/AdiIrawan21/digicar-app/assets/117340600/9d9db03f-f67f-406f-acea-7f60c26f9c4b)
+![WhatsApp Image 2024-06-12 at 22 03 32](https://github.com/AdiIrawan21/digicar-app/assets/117340600/dca6e9cf-d30e-4572-ae29-07d5aa531957)
+
+## Tampilan Login Admin
+![WhatsApp Image 2024-06-12 at 22 06 03](https://github.com/AdiIrawan21/digicar-app/assets/117340600/277be0ce-42f6-4d2a-88a5-08c0fe9c0fd1)
